@@ -6,7 +6,7 @@ tags: [agile]
 ---
 
 
-## Agile Project Management
+## 한글 인식함?
 
 Agile remove the bullying from the process, scope is the only thing that gets discussed in an Agile methodology.
 Agile is:
